@@ -1,0 +1,1 @@
+Welcome! I'm Edward, a postdoc at the [Paul Scherrer Institute](https://www.psi.ch/en) in Switzerland. This GitHub organisation is where I keep the slides for talks I give. Go ahead and browse the different repositories, and feel free to [get in touch](mailto:edward.linscott@psi.ch) if you have any questions!
